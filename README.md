@@ -1,4 +1,5 @@
-#Futures Initiative Mobile App ![alt tag](https://github.com/michellemorales/FuturesInitiative/raw/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
+![alt tag](https://github.com/michellemorales/FuturesInitiative/raw/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?style=centerme)
+##Futures Initiative Mobile App
 
 This is a project for the Futures Initiative (FI): http://futuresinitiative.org/ . During my year as an FI fellow, I plan to build a pilot app for an events calendar.
 
