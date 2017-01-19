@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://github.com/michellemorales/FuturesInitiative/raw/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-</p>
-##Futures Initiative Mobile App
-![alt tag](https://github.com/michellemorales/FuturesInitiative/raw/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
+![alt tag](https://github.com/michellemorales/FuturesInitiative/raw/master/FI-Logo-header.png)
+# The Futures Initiative Mobile App
+
+
 This is a project for the Futures Initiative (FI): http://futuresinitiative.org/ . During my year as an FI fellow, I plan to build a pilot app for an events calendar.
 
 The 24 CUNY colleges offer an incredible array of public programming, but there is currently no easy way to see all events in a single interface. Event announcements are often spread across different university websites or hidden in specific department or research lab web pages. The goal of this project is to create a mobile application (app) for CUNY students. The app will serve as a platform to connect CUNY students via a mobile events calendar. The CUNY Connect calendar app will be an up-to-date source of information about all events across the CUNY network. The major aim of this project is to bridge connections across CUNY, fostering collaboration, innovation, and interdisciplinary work. Connecting CUNY will lead to a stronger system by unifying students, faculty, and administration.
